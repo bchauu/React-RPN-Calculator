@@ -1,0 +1,16 @@
+input {
+    border: 1px;
+    background-color: rgb(80, 60, 209);
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(255, 255, 255, 0.959);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+  }
+  
+  input:hover {
+    background-color: rgb(61, 43, 184);
+  }
+  
